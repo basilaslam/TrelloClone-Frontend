@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  url: 'hhttp://localhost:r000'
+  url: 'https://trello-cpeitwtrka-uc.a.run.app'
 };

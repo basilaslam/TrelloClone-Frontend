@@ -1,5 +1,5 @@
 export const environment = {
   production: false,
-  url: 'http://localhost:4000/api',
-  socketUrl: 'http://localhost:4000'
+  url: 'https://trello-cpeitwtrka-uc.a.run.app/api',
+  socketUrl: 'https://trello-cpeitwtrka-uc.a.run.app'
 };
